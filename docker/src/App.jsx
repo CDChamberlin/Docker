@@ -7,7 +7,7 @@ function App() {
 
   return (
     <>
-      <h1>A four Function Calculator</h1>
+      <h1>A 4 Function Calculator</h1>
       <CalculatorApp />
     </>
   )
